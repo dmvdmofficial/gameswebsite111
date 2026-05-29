@@ -1,1 +1,7 @@
-
+{
+  "status": "ok",
+  "accounts": [
+    { "id": "David", "pass": "Noobisn1ob$" },
+    { "id": "Slava", "pass": "Slava" }
+  ]
+}
